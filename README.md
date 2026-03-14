@@ -19,7 +19,7 @@ With automatic analysis:
 streamlit run app_with_analyzer.py
 
 Here is a UI example:
-![alt text](screen/test_visualization.PNG)
+![Visualization test](screen/test_visualization.PNG)
 
 Here is a UI example with analyzer:
-![alt text](screen/test_analyzer.PNG)
+![Analyzer test](screen/test_analyzer.PNG)
